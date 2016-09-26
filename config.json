@@ -1,0 +1,5 @@
+{
+    "httpPort": 8000,
+    "httpsPort": 8443,
+    "certificateRoot": "c:/ProgramData/Qlik/Sense/Repository/Exported Certificates/.Local Certificates/"
+}

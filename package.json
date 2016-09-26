@@ -1,0 +1,21 @@
+{
+    "name": "cors-proxy",
+    "version": "1.0.0",
+    "description": "JSON proxy to handle CORS requests",
+    "main": "server.js",
+    "dependencies": {
+        "express": "^4.14.0",
+        "http": "^0.0.0",
+        "fs": "^0.0.2",
+        "path": "^0.12.7",
+        "request": "^2.72.0",
+        "https": "^1.0.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "author": "Ralf Becher",
+    "license": "MIT"
+}
