@@ -12,6 +12,10 @@ Set certificate location and ports in config.json
 
 ```npm start```
 
+Example call:
+
+```https://localhost:8443/proxy/?url=<api url>```
+
 ## Qlik Sense Service Dispatcher Integration
 
 * Copy the files manually with admin priviliges into  
